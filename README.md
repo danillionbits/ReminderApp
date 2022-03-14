@@ -52,6 +52,9 @@ user can easily navigate to specific date and view either past or future events.
 
 [![demo_video](https://img.youtube.com/vi/RSh7ITujWEI/0.jpg)](https://www.youtube.com/watch?v=RSh7ITujWEI)
 
+## Build and test
+- [Download apk here!](./build/ReminderApp-v0.0.1.apk)
+
 ## Test cases
 
 ### WelcomeActivity
