@@ -38,7 +38,7 @@ user can easily navigate to specific date and view either past or future events.
   other activities or to just simply cancel that event.
 
 ## Screenshots
-
+<div>
 <img src="./screenshots/device-2022-03-09-150333.png" alt="welcome" width="200"/>
 <img src="./screenshots/device-2022-03-09-150911.png" alt="main" width="200"/>
 <img src="./screenshots/device-2022-03-09-150921.png" alt="main_nav" width="200"/>
@@ -46,6 +46,7 @@ user can easily navigate to specific date and view either past or future events.
 <img src="./screenshots/device-2022-03-09-150813.png" alt="add" width="200"/>
 <img src="./screenshots/device-2022-03-11-145814.png" alt="date_dialog" width="200"/>
 <img src="./screenshots/device-2022-03-11-145824.png" alt="time_dialog" width="200"/>
+</div>
 
 ## Demo video
 
