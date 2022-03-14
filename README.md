@@ -112,7 +112,7 @@ The application was installed in these following Android phones:
 
 ## Contributors
 
-1. Dat Pham
+1. Dat Pham (Daniel)
 2. Tran Cong Minh
 3. Dhakeswor Nyaupane
 
