@@ -52,8 +52,12 @@ user can easily navigate to specific date and view either past or future events.
 
 [![demo_video](https://img.youtube.com/vi/RSh7ITujWEI/0.jpg)](https://www.youtube.com/watch?v=RSh7ITujWEI)
 
-## Build and test
-- [Download apk here!](./build/ReminderApp-v0.0.1.apk)
+## Build instruction
+1. Clone the repository
+2. Open project in Android Studio
+3. Connect to your Android phone using USB cable
+4. Run the app
+5. Or simple download [.apk](./build/ReminderApp-v0.0.1.apk)
 
 ## Test cases
 
