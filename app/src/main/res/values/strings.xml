@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">ReminderApp</string>
+    <string name="upcoming_events">Upcoming events</string>
+    <string name="save">Save</string>
+    <string name="delete">Delete</string>
+    <string name="edit">Edit</string>
+    <string name="sunday">S</string>
+    <string name="monday">M</string>
+    <string name="tuesday">T</string>
+    <string name="wednesday">W</string>
+    <string name="thursday">T</string>
+    <string name="friday">F</string>
+    <string name="saturday">S</string>
+    <string name="title">Enter event title</string>
+    <string name="from">From</string>
+    <string name="to">To</string>
+    <string name="location">Location</string>
+    <string name="color">Color</string>
+    <string name="attendees">Attendees</string>
+    <string name="description">Description</string>
+    <string name="missing_title">Please fill in event title</string>
+    <string name="missing_name">Please fill in your name</string>
+
+    <string name="edit_event_title">Edit event</string>
+    <string name="add_event_title">Add an event</string>
+
+    <string name="hello">Hello!</string>
+    <string name="hello_emo">Great to see you here &#128516;</string>
+
+    <string name="cal_type">Customize</string>
+    <string name="cal_type_weekly">Weekly</string>
+    <string name="cal_type_monthly">Monthly</string>
+    <string name="copyright">Copyright @ReminderApp</string>
+    <string name="red">Red</string>
+    <string name="pink">Pink</string>
+    <string name="orange">Orange</string>
+    <string name="yellow">Yellow</string>
+    <string name="green">Green</string>
+    <string name="blue">Blue</string>
+    <string name="purple">Purple</string>
+    <string name="brown">Brown</string>
+
+    <string name="first_time">Welcome to ReminderApp!</string>
+    <string name="wecome">Welcome back</string>
+    <string name="redirect">Redirect in</string>
+</resources>
